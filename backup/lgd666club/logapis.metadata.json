@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"lgd666club.logapis"},{"v":1,"key":{"callBy":1},"name":"callBy_1","ns":"lgd666club.logapis","background":true},{"v":1,"key":{"createdAt":1},"name":"createdAt_1","ns":"lgd666club.logapis","expireAfterSeconds":null,"background":true}]}

@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"lgd666club.barrels"},{"v":1,"unique":true,"key":{"view":1,"date":1},"name":"view_1_date_1","ns":"lgd666club.barrels","background":true},{"v":1,"key":{"createdAt":1},"name":"createdAt_1","ns":"lgd666club.barrels","expireAfterSeconds":8640000,"background":true}]}
